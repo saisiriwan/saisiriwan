@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, my name is Sai (Siriwan) & I'm a Recent Graduate based in Bangkok! 👩‍💻
 
-<!--
-**saisiriwan/saisiriwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Software Developer** ready to launch my career. With a strong foundation in IT, I am capable of working as a **Frontend**, **Backend**, or **Full Stack Developer**.
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Developing scalable web applications using **Golang (Fiber/Gin)** and **React**.
+* Designing efficient **Database Schemas** and backend architectures.
+* Creating responsive and user-friendly **Frontend** interfaces.
+
+### 🛠️ Projects & Experience
+
+* **Fitness Tracking Platform (Senior Project):** Architected a complete **Full Stack** application handling simulated records using Go and React.
+* **Frontend Developer Intern:** Refactored legacy code and implemented UI/UX designs for government projects.
+* **Teaching Assistant:** Mentored students in core technical subjects including Web Technology and Programming.
+
+### 💬 Want to connect?
+
+* **LinkedIn:** [Siriwan Phoksanit](www.linkedin.com/in/siriwanphoksanit-75489b336)
+* **Email:** siriwanphoksanit22@gmail.com
+
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=saisiriwan&show_icons=true&theme=graywhite&hide_border=true" height="130" alt="stats graph" />
+</p>
