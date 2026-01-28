@@ -1,6 +1,6 @@
 ### Hi there, my name is Sai  & I'm a Recent Graduate based in Bangkok! 👩‍💻
 
-I am a passionate **Software Developer** ready to launch my career. With a strong foundation in IT, I am capable of working as a **Frontend**, **Backend**, or **Full Stack Developer**.
+I am a recent graduate looking for a Developer job. I have the skills to work as a Frontend, Backend, or Full Stack Developer. 
 
 ### 🚀 Current Focus
 
