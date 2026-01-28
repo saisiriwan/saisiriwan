@@ -1,4 +1,4 @@
-### Hi there, my name is Sai (Siriwan) & I'm a Recent Graduate based in Bangkok! 👩‍💻
+### Hi there, my name is Sai  & I'm a Recent Graduate based in Bangkok! 👩‍💻
 
 I am a passionate **Software Developer** ready to launch my career. With a strong foundation in IT, I am capable of working as a **Frontend**, **Backend**, or **Full Stack Developer**.
 
@@ -20,6 +20,4 @@ I am a passionate **Software Developer** ready to launch my career. With a stron
 * **Email:** siriwanphoksanit22@gmail.com
 
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisiriwan&show_icons=true&theme=graywhite&hide_border=true" height="130" alt="stats graph" />
-</p>
+
