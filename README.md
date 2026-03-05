@@ -5,6 +5,6 @@ I am a recent graduate looking for a Software Developer job. I have the skills t
 
 * **LinkedIn:** [Siriwan Phoksanit](www.linkedin.com/in/siriwanphoksanit-75489b336)
 * **Email:** siriwanphoksanit22@gmail.com
-
+* **Resume** https://my-portfolio-wriu.vercel.app/
 ---
 
